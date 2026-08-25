@@ -17,7 +17,7 @@ Passionate about building responsive web apps
 ## Featured Projects  
 
 ### Build and Launch Website — Developer Portfolio  
-- Website đặt pizza bằng HTML, CSS, JavaScript.  
+- Website portfolio cá nhân bằng Next.js, TypeScript, Tailwind CSS và Supabase.
 - Tech: Next.js, TypeScript, React.js, Tailwind CSS, Supabase, Vercel
 - Demo: https://www.fsdev7.com/
 - GitHub Repo: https://github.com/canhtrong26-dev/portfolio.git
