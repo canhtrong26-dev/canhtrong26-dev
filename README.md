@@ -1,4 +1,4 @@
-# Vo Trong Canh  
+# VO TRONG CANH  
 
 IT Student at Hanoi University of Business and Technology 
 Passionate about building responsive web apps  
