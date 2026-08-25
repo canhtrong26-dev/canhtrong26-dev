@@ -1,6 +1,6 @@
 # Vo Trong Canh  
 
-Frontend Developer Intern | IT Student at HUBT  
+IT Student at HUBT  
 Passionate about building responsive web apps  
 
 ---
@@ -10,31 +10,17 @@ Passionate about building responsive web apps
 - React, Node.js (basic)  
 - Bootstrap, Tailwind CSS  
 - Responsive Design, DOM, Fetch API, JSON  
-- GitLab, VS Code, Figma  
+- GitLab, VS Code, Flutter, Figma  
 
 ---
 
 ## Featured Projects  
 
-### Pizza365  
+### Build and Launch Website — Developer Portfolio  
 - Website đặt pizza bằng HTML, CSS, JavaScript.  
-- Tech: DOM, JSON, Fetch API, Responsive Design.  
-- Demo: [demo-link]  
-- GitHub Repo: https://github.com/canhtrong26-dev/Project-Pizza-365-v0.5-from-gitlab  
-
-### Fashion E-Commerce Product Page  
-- Website thương mại điện tử giao diện sản phẩm.  
-- Tech: HTML, CSS, JavaScript.  
-- Demo: [demo-link]  
-- GitHub Repo: https://github.com/canhtrong26-dev/Project-Project-Fashion-E-Commerce-Product-Page-from-gitlab  
-
-### Shop Website (My Project)  
-- Website bán hàng cơ bản.  
-- Tech: HTML, CSS, JavaScript, Bootstrap.  
-- Demo: [demo-link]  
-- GitHub Repo: https://github.com/canhtrong26-dev/-my-project  
-
----
+- Tech: Next.js, TypeScript, React.js, Tailwind CSS, Supabase, Vercel
+- Demo: https://www.fsdev7.com/
+- GitHub Repo: https://github.com/canhtrong26-dev/portfolio.git
 
 ## Education  
 - Đại học Kinh doanh và Công nghệ Hà Nội  
