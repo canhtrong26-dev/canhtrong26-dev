@@ -1,6 +1,6 @@
 # Vo Trong Canh  
 
-IT Student at HUBT  
+IT Student at Hanoi University of Business and Technology 
 Passionate about building responsive web apps  
 
 ---
