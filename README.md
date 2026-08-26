@@ -1,34 +1,38 @@
-# VO TRONG CANH  
+# VO TRONG CANH
 
-IT Student at Hanoi University of Business and Technology 
-Passionate about building responsive web apps  
-
----
-
-## Tech Stack  
-- HTML5, CSS3, JavaScript  
-- React, Supabase, Node.js (basic)  
-- Bootstrap, Tailwind CSS  
-- Responsive Design, DOM, Fetch API, JSON  
-- GitLab, VS Code, Flutter, Figma  
+IT Student at Hanoi University of Business and Technology  
+Passionate about building responsive web apps
 
 ---
 
-## Featured Projects  
+## Tech Stack
 
-### Build and Launch Website — Developer Portfolio  
-- Website portfolio cá nhân bằng Next.js, TypeScript, Tailwind CSS và Supabase.
+- HTML5, CSS3, JavaScript
+- React, Supabase, Node.js (Basic)
+- Bootstrap, Tailwind CSS
+- Responsive Design, DOM, Fetch API, JSON
+- GitLab, VS Code, Flutter, Figma
+
+---
+
+## Featured Projects
+
+### Build and Launch Website — Developer Portfolio
+
+- Personal portfolio website built with Next.js, TypeScript, Tailwind CSS, and Supabase.
 - Tech: Next.js, TypeScript, React.js, Tailwind CSS, Supabase, Vercel
-- Demo: https://www.fsdev7.com/
-- GitHub Repo: https://github.com/canhtrong26-dev/portfolio.git
+- Demo: [https://www.fsdev7.com/](https://www.fsdev7.com/)
+- GitHub Repo: [https://github.com/canhtrong26-dev/portfolio.git](https://github.com/canhtrong26-dev/portfolio.git)
 
-## Education  
-- Đại học Kinh doanh và Công nghệ Hà Nội  
-- Ngành: Công nghệ Thông tin (2025-2029)
-- GPA: 3.6/4.0  
+## Education
+
+- Hanoi University of Business and Technology
+- Major: Information Technology (2025–2029)
+- GPA: 3.6/4.0
 
 ---
 
-## Achievements  
-- HackerRank (2025): Hoàn thành nhiều bài thực hành lập trình.  
-- GPA 3.6/4.0 (2026): Thành tích học tập nổi bật năm nhất.  
+## Achievements
+
+- HackerRank (2025): Completed numerous programming practice challenges.
+- GPA 3.6/4.0 (2026): Outstanding academic performance in the first year.
