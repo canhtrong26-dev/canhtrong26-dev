@@ -21,7 +21,7 @@
   
   - Personal portfolio website built with Next.js, TypeScript, Tailwind CSS, and Supabase.
   - Tech: Next.js, TypeScript, React.js, Tailwind CSS, Supabase, Vercel, Formspree, UptimeRobot, CAPTCHA.
-  - Demo: [https://www.fsdev7.com/](https://www.fsdev7.com/)
+  - Link: [https://www.fsdev7.com/](https://www.fsdev7.com/)
   - GitHub Repo: [https://github.com/canhtrong26-dev/portfolio.git](https://github.com/canhtrong26-dev/portfolio.git)
   
   ## Education
