@@ -7,7 +7,7 @@ Passionate about building responsive web apps
 
 ## Tech Stack  
 - HTML5, CSS3, JavaScript  
-- React, Node.js (basic)  
+- React, Supabase, Node.js (basic)  
 - Bootstrap, Tailwind CSS  
 - Responsive Design, DOM, Fetch API, JSON  
 - GitLab, VS Code, Flutter, Figma  
@@ -24,7 +24,7 @@ Passionate about building responsive web apps
 
 ## Education  
 - Đại học Kinh doanh và Công nghệ Hà Nội  
-- Ngành: Công nghệ Thông tin  
+- Ngành: Công nghệ Thông tin (2025-2029)
 - GPA: 3.6/4.0  
 
 ---
