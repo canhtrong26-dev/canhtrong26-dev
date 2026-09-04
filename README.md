@@ -102,7 +102,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -112,25 +112,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canhtrong26-dev&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/canhtrong26-dev/canhtrong26-dev/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://gitlab.com/canh-dev"><img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/dev-trongcanh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/itscank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="mailto:canhtrong26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
 ---
 
