@@ -9,9 +9,6 @@
 ---
 
 ## Tech Stack
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,tailwind,supabase,git,gitlab,vscode,figma,flutter&theme=dark&perline=7" />
-
 - HTML5, CSS3, JavaScript
 - React, Supabase, Node.js (Basic)
 - Bootstrap, Tailwind CSS
