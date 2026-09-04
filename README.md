@@ -12,13 +12,13 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
-- 🎓 IT Student at **Hanoi University of Business and Technology (HUBT)**
-- 🏫 Currently learning at **DevCamp120 Bootcamp**
-- 🌱 Focusing on **HTML, CSS, JavaScript, React, Node.js**
-- 📍 Based in **Hà Nội, Vietnam**
-- ☕ *Coffee in, code out*
+-  IT Student at **Hanoi University of Business and Technology (HUBT)**
+-  Currently learning at **DevCamp120 Bootcamp**
+-  Focusing on **HTML, CSS, JavaScript, React, Node.js**
+-  Based in **Hà Nội, Vietnam**
+-  *Coffee in, code out*
 
 ---
 
