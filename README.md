@@ -1,10 +1,7 @@
-<div align="center">
+# VO TRONG CANH
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=200&section=header&text=VO%20TRONG%20CANH&fontSize=50&fontColor=00ff9f&animation=fadeIn&fontAlignY=35&desc=IT%20Student%20%7C%20Web%20Developer&descAlignY=55&descSize=16" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=IT+Student+at+HUBT;Passionate+about+building+responsive+web+apps;Always+learning%2C+always+coding" />
-
-</div>
+IT Student at Hanoi University of Business and Technology
+Passionate about building responsive web apps
 
 ---
 
