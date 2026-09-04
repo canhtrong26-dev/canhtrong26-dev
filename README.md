@@ -42,11 +42,3 @@
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=canhtrong26-dev&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9F&icon_color=00FF9F&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canhtrong26-dev&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=c9d1d9" width="40%" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:0d1117,100:000000&height=120&section=footer" width="100%" />
-
-</div>
