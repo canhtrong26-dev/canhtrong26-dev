@@ -33,9 +33,5 @@ Passionate about building responsive web apps
 
 ---
 
-## Achievements
 
-- HackerRank (2025): Completed numerous programming practice challenges.
-- GPA 3.6/4.0 (2026): Outstanding academic performance in the first year.
-Have a nice day!
 
