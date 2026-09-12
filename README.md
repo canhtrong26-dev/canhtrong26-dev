@@ -9,7 +9,7 @@ Passionate about building responsive web apps
 
 - HTML5, CSS3, JavaScript
 - React, Supabase, Node.js, Mongo DB compass
-- Bootstrap, Tailwind CSS
+- Bootstrap, Tailwind CSS, Sass
 - Responsive Design, DOM, Fetch API, JSON
 - GitLab,VS Code ,Postman , Figma
 
