@@ -7,7 +7,7 @@ Passionate about building responsive web apps
 
 ## Tech Stack
 
-- HTML5, CSS3, JavaScript
+- HTML5, CSS3, JavaScript, TypeScript
 - React, Supabase, Node.js, Mongo DB compass
 - Bootstrap, Tailwind CSS, Sass
 - Responsive Design, DOM, Fetch API, JSON
