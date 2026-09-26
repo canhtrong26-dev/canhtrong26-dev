@@ -10,7 +10,7 @@ Aspiring **Full-stack Developer**, passionate about building responsive web apps
 ## Tech Stack
 
 - **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript
-- **Front-end:** React, Next.js, Redux Toolkit, Tailwind CSS, Bootstrap, Sass, jQuery
+- **Front-end:** React, Next.js, Redux Toolkit, Tailwind CSS, Bootstrap, Sass, jQuery, Next.js
 - **Back-end:** Node.js, Express, Sequelize, REST API
 - **Databases:** MySQL, MongoDB, Supabase
 - **Tools:** Git, GitHub, GitLab, VS Code, Postman, Figma
