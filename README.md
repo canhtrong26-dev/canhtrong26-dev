@@ -1,66 +1,66 @@
-# Võ Trọng Cảnh
+# VO TRONG CANH
 
-Sinh viên năm hai ngành Công nghệ Thông tin – Trường Đại học Kinh doanh và Công nghệ Hà Nội
-Định hướng trở thành **lập trình viên Full-stack**, đam mê xây dựng ứng dụng web responsive
+Second-year IT Student at Hanoi University of Business and Technology
+Aspiring **Full-stack Developer**, passionate about building responsive web apps
 
-🌐 Website: [fsdev7.com](https://www.fsdev7.com/) · 📧 Email: canhvt@fsdev7.com
+ Website: [fsdev7.com](https://www.fsdev7.com/) ·  Email: canhvt@fsdev7.com
 
 ---
 
-## Kỹ năng
+## Tech Stack
 
-- **Ngôn ngữ:** HTML5, CSS3, JavaScript (ES6+), TypeScript
+- **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript
 - **Front-end:** React, Next.js, Redux Toolkit, Tailwind CSS, Bootstrap, Sass, jQuery
 - **Back-end:** Node.js, Express, Sequelize, REST API
-- **Cơ sở dữ liệu:** MySQL, MongoDB, Supabase
-- **Công cụ:** Git, GitHub, GitLab, VS Code, Postman, Figma
+- **Databases:** MySQL, MongoDB, Supabase
+- **Tools:** Git, GitHub, GitLab, VS Code, Postman, Figma
 
 ---
 
-## Dự án nổi bật
+## Featured Projects
 
 ### Developer Portfolio
-- Website portfolio cá nhân giới thiệu dự án, kỹ năng và kinh nghiệm
-- **Công nghệ:** Next.js, TypeScript, React, Tailwind CSS, Supabase, Vercel, Formspree
-- **Link:** [fsdev7.com](https://www.fsdev7.com/) · **Mã nguồn:** [GitHub](https://github.com/canhtrong26-dev/portfolio)
+- Personal developer portfolio showcasing projects, skills, and experience
+- **Tech:** Next.js, TypeScript, React, Tailwind CSS, Supabase, Vercel, Formspree
+- **Live:** [fsdev7.com](https://www.fsdev7.com/) · **Source:** [GitHub](https://github.com/canhtrong26-dev/portfolio)
 
 ### Food Ordering Backend
-- Xây dựng REST API CRUD cho 4 bảng: voucher, đơn hàng, chi tiết đơn hàng và món ăn
-- **Công nghệ:** Node.js, Express, Sequelize, MySQL
-- **Mã nguồn:** [GitHub](https://github.com/canhtrong26-dev/-devcamp-food-ordering-backend)
+- Built a CRUD REST API for 4 tables: vouchers, orders, order details and foods
+- **Tech:** Node.js, Express, Sequelize, MySQL
+- **Source:** [GitHub](https://github.com/canhtrong26-dev/-devcamp-food-ordering-backend)
 
 ### Vaccination.ng
-- Xây dựng REST API CRUD cho User và Contact, kèm trang quản trị và giao diện responsive theo Figma
-- **Công nghệ:** Node.js, Express, MongoDB, HTML/CSS
-- **Mã nguồn:** [GitHub](https://github.com/canhtrong26-dev/Exam-Middle-NodeJs)
+- Built a CRUD REST API for Users and Contacts, with admin pages and a responsive UI from a Figma mockup
+- **Tech:** Node.js, Express, MongoDB, HTML/CSS
+- **Source:** [GitHub](https://github.com/canhtrong26-dev/Exam-Middle-NodeJs)
 
 ### Shopping Cart
-- Trang giỏ hàng lấy sản phẩm từ Fake Store API, quản lý giỏ hàng bằng Redux Toolkit
-- **Công nghệ:** React, TypeScript, Redux Toolkit, Tailwind CSS
-- **Mã nguồn:** [GitHub](https://github.com/canhtrong26-dev/Shopping-)
+- Built a shopping cart that fetches products from the Fake Store API, with cart state managed by Redux Toolkit
+- **Tech:** React, TypeScript, Redux Toolkit, Tailwind CSS
+- **Source:** [GitHub](https://github.com/canhtrong26-dev/Shopping-)
 
 ### Hotel Finder
-- Web tìm khách sạn: tìm kiếm, lọc, lưu yêu thích, trang quản trị thêm/sửa/xóa khách sạn
-- **Công nghệ:** React, TypeScript, Redux Toolkit, React Router, Tailwind CSS
-- **Mã nguồn:** [GitHub](https://github.com/canhtrong26-dev/Hotel)
+- Built a hotel search website with search, filters, favorites, and an admin page to add, edit and delete hotels
+- **Tech:** React, TypeScript, Redux Toolkit, React Router, Tailwind CSS
+- **Source:** [GitHub](https://github.com/canhtrong26-dev/Hotel)
 
 ### EduPro LMS
-- Hệ thống học trực tuyến: danh sách khóa học, khóa học yêu thích, Dashboard có đăng nhập
-- **Công nghệ:** React, React Router, Redux Toolkit, Tailwind CSS
-- **Mã nguồn:** [GitHub](https://github.com/canhtrong26-dev/lms-mini)
+- Built an online learning system with course list, favorite courses, and a login-protected Dashboard
+- **Tech:** React, React Router, Redux Toolkit, Tailwind CSS
+- **Source:** [GitHub](https://github.com/canhtrong26-dev/lms-mini)
 
 ---
 
-## Chứng chỉ
+## Certifications
 
 - **HackerRank:** Frontend Developer (React), REST API (Intermediate), React (Basic)
 - **TestDome:** TypeScript, jQuery, Bootstrap (Top 10%); React, Git (Top 25%)
 
 ---
 
-## Học vấn
+## Education
 
-- **Trường Đại học Kinh doanh và Công nghệ Hà Nội**
-- Ngành: Công nghệ Thông tin (2025 – 2029)
+- **Hanoi University of Business and Technology**
+- Major: Information Technology (2025 – 2029)
 - GPA: 3.6/4.0
-- Đang thực hiện đề tài nghiên cứu khoa học: hệ thống AI hỗ trợ phát hiện gian lận thi cử
+- Ongoing research: AI-based system to support cheating detection in exams
