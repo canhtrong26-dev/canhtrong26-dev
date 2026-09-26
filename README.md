@@ -29,11 +29,6 @@ Aspiring **Full-stack Developer**, passionate about building responsive web apps
 - **Tech:** Node.js, Express, Sequelize, MySQL
 - **Source:** [GitHub](https://github.com/canhtrong26-dev/-devcamp-food-ordering-backend)
 
-### Vaccination.ng
-- Built a CRUD REST API for Users and Contacts, with admin pages and a responsive UI from a Figma mockup
-- **Tech:** Node.js, Express, MongoDB, HTML/CSS
-- **Source:** [GitHub](https://github.com/canhtrong26-dev/Exam-Middle-NodeJs)
-
 ### Shopping Cart
 - Built a shopping cart that fetches products from the Fake Store API, with cart state managed by Redux Toolkit
 - **Tech:** React, TypeScript, Redux Toolkit, Tailwind CSS
@@ -44,18 +39,6 @@ Aspiring **Full-stack Developer**, passionate about building responsive web apps
 - **Tech:** React, TypeScript, Redux Toolkit, React Router, Tailwind CSS
 - **Source:** [GitHub](https://github.com/canhtrong26-dev/Hotel)
 
-### EduPro LMS
-- Built an online learning system with course list, favorite courses, and a login-protected Dashboard
-- **Tech:** React, React Router, Redux Toolkit, Tailwind CSS
-- **Source:** [GitHub](https://github.com/canhtrong26-dev/lms-mini)
-
----
-
-## Certifications
-
-- **HackerRank:** Frontend Developer (React), REST API (Intermediate), React (Basic)
-- **TestDome:** TypeScript, jQuery, Bootstrap (Top 10%); React, Git (Top 25%)
-
 ---
 
 ## Education
@@ -63,4 +46,4 @@ Aspiring **Full-stack Developer**, passionate about building responsive web apps
 - **Hanoi University of Business and Technology**
 - Major: Information Technology (2025 – 2029)
 - GPA: 3.6/4.0
-- Ongoing research: AI-based system to support cheating detection in exams
+
