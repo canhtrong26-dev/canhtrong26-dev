@@ -22,17 +22,17 @@ Aspiring **Full-stack Developer**, passionate about building responsive web apps
 ### Developer Portfolio
 - Personal developer portfolio showcasing projects, skills, and experience
 - **Tech:**  Next.js, TypeScript, React.js, Tailwind CSS, Supabase, Vercel, Formspree, UptimeRobot, CAPTCHA.
-- **Live:** [fsdev7.com](https://www.fsdev7.com/) · **Source:** [GitHub](https://github.com/canhtrong26-dev/portfolio)
+- **Live:** [fsdev7.com](https://www.fsdev7.com/) · **Source:** https://github.com/canhtrong26-dev/portfolio
 
 ### Food Ordering Backend
 - Built a CRUD REST API for 4 tables: vouchers, orders, order details and foods
 - **Tech:** Node.js, Express, Sequelize, MySQL
-- **Source:** [GitHub](https://github.com/canhtrong26-dev/-devcamp-food-ordering-backend)
+- **Source:** https://github.com/canhtrong26-dev/-devcamp-food-ordering-backend
 
 ### Shopping Cart
 - Built a shopping cart that fetches products from the Fake Store API, with cart state managed by Redux Toolkit
 - **Tech:** React, TypeScript, Redux Toolkit, Tailwind CSS
-- **Source:** [GitHub](https://github.com/canhtrong26-dev/Shopping-)
+- **Source:** https://github.com/canhtrong26-dev/Shopping-
 
 ---
 
