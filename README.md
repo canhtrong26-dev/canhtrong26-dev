@@ -40,6 +40,6 @@ Aspiring **Full-stack Developer**, passionate about building responsive web apps
 
 - **Hanoi University of Business and Technology**
 - Major: Information Technology (2025 – 2029)
-- GPA: 3.60/4.0
+- GPA: 3.6 / 4.0
 
 
